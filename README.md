@@ -17,6 +17,6 @@ O Saúde360 propõe uma solução abrangente para enfrentar os desafios de saúd
 
 Este projeto está separado entre os arquivos html que estão na pasta "font-html" e o projeto dinâmico na pasta "react". A documentação de ambas podem ser vistas através de suas respectivas pastas.
 
-[DOCUMENTAÇÃO FRONT-HTML](./vanilla/README.md)
+[DOCUMENTAÇÃO FRONT-HTML](./front-html/README.md)
 
 [DOCUMENTAÇÃO REACT](./react/README.md)
